@@ -1,0 +1,2 @@
+[[Anti-corruption layer]]
+[[Strangler]]
