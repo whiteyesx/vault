@@ -1,6 +1,0 @@
-
-## Context
-
-## Solution
-
-## Resulting Context

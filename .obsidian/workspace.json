@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "700d2cdb1c93f5d8",
+        "id": "b6ba09c09907d73b",
         "type": "split",
         "children": [
           {
-            "id": "2b69a5e16404f0af",
+            "id": "7992501567a28576",
             "type": "tabs",
             "children": [
               {
-                "id": "84e3892f7d513566",
+                "id": "7ca12cdf1cef01f5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "microservices.io/Distributed Transactions & Messaging/Saga.md",
+                    "file": "Microservices/CQRS.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,11 +26,11 @@
             ]
           },
           {
-            "id": "2d45c7e64f0c792b",
+            "id": "d1ea8c8e9b68d588",
             "type": "tabs",
             "children": [
               {
-                "id": "0e84c0bcd9b40554",
+                "id": "ab9d2df51d0dafa9",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -59,7 +59,7 @@
                       },
                       "serial": {
                         "columns": 171,
-                        "data": "daniilbeloglazov@MacBook-Pro-Daniil Backend % git add .",
+                        "data": "daniilbeloglazov@MacBook-Pro-Daniil Backend % git add . \r\ndaniilbeloglazov@MacBook-Pro-Daniil Backend % git add -A    \u001b[4D",
                         "rows": 27
                       }
                     }
@@ -194,46 +194,50 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0e84c0bcd9b40554",
+  "active": "ab9d2df51d0dafa9",
   "lastOpenFiles": [
-    "microservices.io/Distributed Transactions & Messaging/Saga.md",
-    "microservices.io/Infrastructure/API Composition.md",
-    "microservices.io/Infrastructure/Externalized Configuration.md",
-    "microservices.io/_Patterns.md",
-    "microservices.io/Distributed Transactions & Messaging/Transactional Outbox.md",
-    "microservices.io/Infrastructure/Ambassador.md",
-    "microservices.io/Distributed Transactions & Messaging/_Transactions and messaging.md",
-    "microservices.io/Decomposition patterns/_Decomposition patterns.md",
-    "microservices.io/Migration to microservices/_Migration to microservices.md",
-    "microservices.io/Asynchronous Request-Reply.md",
-    "microservices.io/Cache-Aside.md",
-    "microservices.io/Infrastructure/_Infastructure.md",
-    "microservices.io/Distributed Transactions & Messaging",
+    "Microservices/CQRS.md",
+    "Microservices/Infrastructure/Sidecar.md",
+    "Microservices/Observability/Distributed Tracing.md",
+    "Microservices/Observability/Health check.md",
+    "Microservices/Observability/Log aggregation.md",
+    "Microservices/_Patterns.md",
+    "Microservices/Asynchronous Request-Reply.md",
+    "Microservices/Cache-Aside.md",
+    "Microservices/Claim Check.md",
+    "Microservices/Database per service.md",
+    "Microservices/Event Sourcing.md",
+    "Microservices/External Configuration Store.md",
+    "Microservices/Idempotent consumer.md",
+    "Microservices/Materialized View.md",
+    "Microservices/Queue-Based Load Leveling.md",
+    "Microservices/Sequential Convoy.md",
+    "resources/Снимок экрана 2024-06-09 в 21.51.51.png",
+    "resources",
+    "NoSQL/Columnar",
+    "NoSQL/Key-value",
+    "NoSQL/Document",
+    "NoSQL/Graph",
+    "NoSQL",
+    "АГУ/Математическая логика.md",
+    "Untitled.md",
+    "resources/Снимок экрана 2024-06-09 в 21.56.39.png",
+    "resources/Снимок экрана 2024-06-09 в 21.56.20.png",
+    "resources/Снимок экрана 2024-06-09 в 21.52.59.png",
+    "Microservices/Observability/Audit logging.md",
+    "Microservices/Observability/Untitled.md",
+    "Microservices/Scalability",
+    "Microservices/Observability/_Observability.md",
     "microservices.io/Untitled.md",
-    "microservices.io/Migration to microservices",
-    "microservices.io/Infrastructure",
-    "microservices.io/Decomposition patterns/Decomposition by business capabilities.md",
-    "microservices.io/Decomposition patterns",
-    "Bash Scripting/_Bash Scripting.md",
-    "microservices.io/Infrastructure/API Gateway.md",
-    "microservices.io/Migration to microservices/Strangler.md",
-    "microservices.io/Health check.md",
-    "microservices.io/Distributed Tracing.md",
-    "microservices.io/Log aggregation.md",
-    "microservices.io/Decomposition patterns/Decomposition by subdomain.md",
-    "microservices.io/Database per service.md",
-    "microservices.io/Infrastructure/Sidecar.md",
-    "microservices.io/Distributed Transactions & Messaging/Transactional log tailing.md",
-    "microservices.io/Queue-Based Load Leveling.md",
-    "Pasted image 20240602204854.png",
-    "Pasted image 20240602204848.png",
-    "microservices.io/Migration to microservices/Anti-corruption layer.md",
-    "Pasted image 20240602201904.png",
-    "АГУ",
-    "microservices.io/Transactional messaging/How to publish message as part of database transaction",
-    "microservices.io/Transactional messaging",
-    "Patterns/How to deploy application's",
-    "Patterns/Transactional Messaging",
-    "microservices.io/Как поддерживать consistency данных и реализовывать запросы"
+    "Microservices/Observability",
+    "Microservices/Infrastructure/Circuit Breaker.md",
+    "Microservices/Infrastructure/Server-side service discovery.md",
+    "Microservices/Infrastructure/Client-side service discovery.md",
+    "Microservices/Distributed Transactions & Messaging/Saga.md",
+    "Microservices/Distributed Transactions & Messaging",
+    "Microservices/Migration to microservices",
+    "resources/Pasted image 20240602204854.png",
+    "resources/Pasted image 20240602204848.png",
+    "resources/Pasted image 20240602201904.png"
   ]
 }
